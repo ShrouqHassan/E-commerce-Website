@@ -1,0 +1,177 @@
+[
+	{
+		"id": 25,
+		"name": "elements-decoration",
+		"price": 12000,
+		"category": "Furneture",
+		"image": "./images/furneture/pexels-maksim-goncharenok-4352247.jpg"
+	},
+	{
+		"id": 12,
+		"name": "P4",
+		"price": 2500,
+		"category": "Paintings",
+		"image": "./images/paintings/P4.jpg"
+	},
+	{
+		"id": 2,
+		"name": "V2",
+		"price": 800,
+		"category": "Vases",
+		"image": "./images/vases/v3.jpg"
+	},
+	{
+		"id": 3,
+		"name": "plants",
+		"price": 700,
+		"category": "Plants",
+		"image": "./images/plants/plant3.jpg"
+	},
+	{
+		"id": 1,
+		"name": "V1",
+		"price": 1000,
+		"category": "Vases",
+		"image": "./images/vases/v2.jpg"
+	},
+	{
+		"id": 7,
+		"name": "V7",
+		"price": 2000,
+		"category": "Vases",
+		"image": "./images/vases/v9.jpg"
+	},
+	{
+		"id": 8,
+		"name": "V8",
+		"price": 2500,
+		"category": "Vases",
+		"image": "./images/vases/v10.jpg"
+	},
+	{
+		"id": 9,
+		"name": "P1",
+		"price": 2500,
+		"category": "Paintings",
+		"image": "./images/paintings/P1.jpg"
+	},
+	{
+		"id": 10,
+		"name": "P2",
+		"price": 2500,
+		"category": "Paintings",
+		"image": "./images/paintings/P2.jpg"
+	},
+	{
+		"id": 6,
+		"name": "V6",
+		"price": 1600,
+		"category": "Vases",
+		"image": "./images/vases/v8.jpg"
+	},
+	{
+		"id": 11,
+		"name": "P3",
+		"price": 2500,
+		"category": "Paintings",
+		"image": "./images/paintings/P3.jpg"
+	},
+	{
+		"id": 24,
+		"name": "elements-decoration",
+		"price": 12000,
+		"category": "Furneture",
+		"image": "./images/furneture/pexels-lina-kivaka-1813502.jpg"
+	},
+	{
+		"id": 13,
+		"name": "P5",
+		"price": 2500,
+		"category": "Paintings",
+		"image": "./images/paintings/P5.jpg"
+	},
+	{
+		"id": 15,
+		"name": "P7",
+		"price": 2500,
+		"category": "Paintings",
+		"image": "./images/paintings/P7.jpg"
+	},
+	{
+		"id": 4,
+		"name": "V4",
+		"price": 1800,
+		"category": "Vases",
+		"image": "./images/vases/v6.jpg"
+	},
+	{
+		"id": 14,
+		"name": "P6",
+		"price": 2500,
+		"category": "Paintings",
+		"image": "./images/paintings/P6.jpg"
+	},
+	{
+		"id": 20,
+		"name": "clock",
+		"price": 2500,
+		"category": "Clocks",
+		"image": "./images/clocks/C3.jpg"
+	},
+	{
+		"id": 16,
+		"name": "Plants",
+		"price": 2500,
+		"category": "Plants",
+		"image": "./images/plants/plant1.jpg"
+	},
+	{
+		"id": 17,
+		"name": "Plants",
+		"price": 2500,
+		"category": "Plants",
+		"image": "./images/plants/plant2.jpg"
+	},
+	{
+		"id": 19,
+		"name": "clock",
+		"price": 2500,
+		"category": "Clocks",
+		"image": "./images/clocks/C2.jpg"
+	},
+	{
+		"id": 21,
+		"name": "empty-flat-interrior-with-elements-decoration",
+		"price": 12500,
+		"category": "Furneture",
+		"image": "./images/furneture/empty-flat-interrior-with-elements-decoration.jpg"
+	},
+	{
+		"id": 22,
+		"name": "flat-interrior-with-elements-decoration",
+		"price": 13500,
+		"category": "Furneture",
+		"image": "./images/furneture/pexels-jonathan-borba-5570224.jpg"
+	},
+	{
+		"id": 23,
+		"name": "elements-decoration",
+		"price": 15000,
+		"category": "Furneture",
+		"image": "./images/furneture/pexels-ksenia-chernaya-3965520.jpg"
+	},
+	{
+		"id": 5,
+		"name": "elements-decoration",
+		"price": 12000,
+		"category": "Furneture",
+		"image": "./images/furneture/pexels-nugroho-wahyu-3097112.jpg"
+	},
+	{
+		"id": 18,
+		"name": "clock",
+		"price": 2500,
+		"category": "Clocks",
+		"image": "./images/clocks/C1.jpg"
+	}
+]

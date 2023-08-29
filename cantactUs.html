@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta http-equiv="X-UA-Compatible" content="IE=7">
+        <meta name ="description" content="Book store">
+        <meta name ="title" content="Home Design-Cart">
+        <title>Contact Us</title>
+        <link rel="stylesheet" href="./style.css">
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Jost:wght@400;500;600&family=Work+Sans:wght@400;500;700&display=swap"rel="stylesheet">
+        <script src="https://kit.fontawesome.com/b5f12d5483.js" crossorigin="anonymous"></script>
+        <link
+            rel="stylesheet"
+            href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap/5.3.1/css/bootstrap.min.css"
+            integrity="sha512-Z/def5z5u2aR89OuzYcxmDJ0Bnd5V1cKqBEbvLOiUNWdg9PQeXVvXLI90SE4QOHGlfLqUnDNVAYyZi8UwUTmWQ=="
+            crossorigin="anonymous"
+            referrerpolicy="no-referrer"
+        />
+    </head>
+    <body>
+        <div class="contain">
+            <div class="container d-flex">
+            <img class="logo" src="./icons/staircase.png" alt="Home" >
+                <h1 style="font-family: custom_font; font-size: xx-large;">Decorate</h1>
+            <div class="navbar">
+                <nav>
+                    <ul>
+                        <li> <input type="search" name="search" id="search" placeholder="Search Decorate " style="font-family: custom_font;" > <i class="fa-solid fa-magnifying-glass"></i></li>
+                        <li> <a href="./index.html">
+                            <img src="./icons/home.png" alt="Home" width="32px" height="32px">
+                        </a></li>
+                        <li> <a href="./about.html">
+                            <i class="fa-solid fa-circle-info fa-2xl" style="color: black;line-height: 1;"></i>
+                            <li> <a href="./cantactUs.html">
+                                <img src="./icons/speech-bubble.png" alt="Fav" width="32px" height="32px">
+                            </a></li>
+                            <li> <a href="./cart.html">
+                                <img src="./icons/cart.png" alt="Cart" width="32px" height="32px">
+                            </a>
+                            <span class='cart-counter'> 0 </span>
+                            <li> <a href="">
+                            <img src="./icons/list.png" alt="List" width="32px" height="32px">
+                        </a></li>
+                        
+                        </a></li>
+                    </ul>
+                </nav>
+            </div>
+        </div>
+        </div>
+
+        <h1> <span> Validator </span>Game </h1>
+<div class="container">
+        <table>
+            <tr>
+            
+                <td><label for="name" style="padding-left: 50px; font-size:x-large;">Name</label></td>
+                <td><input type="text" id="username" value="" onchange="set()"></td>
+            </tr>
+            <tr> <td colspan="2" ><div class="msgs" id="msg1" style="padding-left: 50px;">-Name is required</div> </td></tr>
+            <tr> <td><div class="msgs" style="padding-left: 50px;">Name is not valid </div></td></tr>
+            
+            <tr>
+
+                <td><label for="Email" style="padding-left: 50px; font-size:x-large;">Email</label></td>
+                <td><input type="text" name="Email" id="Email" onchange="set()"></td>
+                <tr> <td colspan="2" ><div class="msgs" id="msg2" style="padding-left: 50px;">-Email is not valid</div> </td></tr>
+            </tr> 
+            <tr>
+            <td>  <label for="msg" style="padding-left: 50px; font-size:x-large;">Message</label></td>
+                <td> <textarea name="msg" id="usermsg" cols="30" rows="10"></textarea></td>
+            </tr>
+            <tr>
+                <td></td>
+    <td><button type="submit" id="submit"  onclick="checkvalidity()" >Submit</button></td> 
+    </tr>
+        </table>
+    </div>
+    
+        <footer>
+
+            <div class="container">
+                <ul> 
+                    <li><a href="http://facebook.com" target="_blank"> 
+                        <img src="./icons/facebook.png" alt="" width="32px" height="32px">
+                        
+                    </a> 
+                    </li>
+                    <li> <a href="http://instagram.com" target="_blank"><img src="./icons/instagram.png" alt="" width="32px" height="32px"> </a></li>
+                    <li> <a href="https://api.whatsapp.com/send?phone=01010667859&text=Hello Decorate!" target="_blank"><img src="./icons/whatsapp.png" alt="" width="32px" height="32px"> </a></li>
+                    <li> <img src="./icons/placeholder.png" alt="" width="32px" height="32px"></li>
+                    <li>
+                        <a href="#">
+                        <i class="fa-solid fa-angle-up fa-2xl" ></i>
+                    </a>
+                    </li>
+                </ul>
+            </div>
+        </footer>
+    
+        <script src="./scriptCU.js"></script>
+        <script
+        src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap/5.3.1/js/bootstrap.min.js"
+        integrity="sha512-fHY2UiQlipUq0dEabSM4s+phmn+bcxSYzXP4vAXItBvBHU7zAM/mkhCZjtBEIJexhOMzZbgFlPLuErlJF2b+0g=="
+        crossorigin="anonymous"
+        referrerpolicy="no-referrer"
+        ></script>
+    </body>
+    </html>
